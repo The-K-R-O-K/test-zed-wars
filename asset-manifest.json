@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/test-zed-wars/static/css/main.8ee0abad.css",
+    "main.js": "/test-zed-wars/static/js/main.882bbdf3.js",
+    "static/js/787.28cb0dcd.chunk.js": "/test-zed-wars/static/js/787.28cb0dcd.chunk.js",
+    "static/media/wall.jpeg": "/test-zed-wars/static/media/wall.f1ea1cf28f0f42739ca7.jpeg",
+    "static/media/background.png": "/test-zed-wars/static/media/background.b5fd23f2706014ca6f56.png",
+    "static/media/players.png": "/test-zed-wars/static/media/players.303ce3249b5aa297df1d.png",
+    "index.html": "/test-zed-wars/index.html",
+    "main.8ee0abad.css.map": "/test-zed-wars/static/css/main.8ee0abad.css.map",
+    "main.882bbdf3.js.map": "/test-zed-wars/static/js/main.882bbdf3.js.map",
+    "787.28cb0dcd.chunk.js.map": "/test-zed-wars/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ee0abad.css",
+    "static/js/main.882bbdf3.js"
+  ]
+}
