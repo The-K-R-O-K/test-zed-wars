@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/test-zed-wars/static/css/main.63f2cfac.css",
-    "main.js": "/test-zed-wars/static/js/main.9115a2ef.js",
+    "main.js": "/test-zed-wars/static/js/main.626c563e.js",
     "static/js/59.bcd96516.chunk.js": "/test-zed-wars/static/js/59.bcd96516.chunk.js",
     "static/js/787.28cb0dcd.chunk.js": "/test-zed-wars/static/js/787.28cb0dcd.chunk.js",
     "static/media/wall.jpeg": "/test-zed-wars/static/media/wall.f1ea1cf28f0f42739ca7.jpeg",
@@ -9,12 +9,12 @@
     "static/media/players.png": "/test-zed-wars/static/media/players.303ce3249b5aa297df1d.png",
     "index.html": "/test-zed-wars/index.html",
     "main.63f2cfac.css.map": "/test-zed-wars/static/css/main.63f2cfac.css.map",
-    "main.9115a2ef.js.map": "/test-zed-wars/static/js/main.9115a2ef.js.map",
+    "main.626c563e.js.map": "/test-zed-wars/static/js/main.626c563e.js.map",
     "59.bcd96516.chunk.js.map": "/test-zed-wars/static/js/59.bcd96516.chunk.js.map",
     "787.28cb0dcd.chunk.js.map": "/test-zed-wars/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.63f2cfac.css",
-    "static/js/main.9115a2ef.js"
+    "static/js/main.626c563e.js"
   ]
 }
